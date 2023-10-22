@@ -38,4 +38,4 @@ inquirer: in @types-module
 
 ## About Inquirer
 
-{Inquirer}("https://www.npmjs.com/package/inquirer#documentation")
+[Inquirer](https://www.npmjs.com/package/inquirer#documentation)
