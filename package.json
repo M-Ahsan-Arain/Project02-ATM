@@ -1,9 +1,12 @@
 {
-  "name": "project02-atm",
+  "name": "@ahsan18/ahsan-atm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "@ahsan18/ahsan-atm": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ahsan18/ahsan-atm": "^1.0.0",
     "inquirer": "^9.2.11"
   },
   "devDependencies": {
