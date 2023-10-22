@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from 'inquirer';
 // Define a simple bank object to hold user account balances
 const bank = {
